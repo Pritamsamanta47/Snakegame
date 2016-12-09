@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Build Tools file for Atom [atom.io]
+.build-tools.cson
