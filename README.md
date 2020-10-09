@@ -1,2 +1,2 @@
 # Snakegame
-A console snake game.
+A console based snake game using C++.
